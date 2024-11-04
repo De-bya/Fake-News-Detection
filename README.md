@@ -1,14 +1,11 @@
 # Fake News Detection
 
-This project aims to develop a machine learning model to classify news articles as either "Fake News" or "Not A Fake News." It uses several machine learning techniques and compares their effectiveness to identify the best model for detecting fake news. The best-performing model can be deployed to test new data and make real-time predictions.
-
-This project focuses on building a machine learning model to classify news articles as either "Fake News" or "Real News." It employs multiple machine learning techniques, including :
+This project focuses on building a machine learning model to classify news articles as either "Fake News" or "Real News." It uses several machine learning techniques to compare their effectiveness and identify the most accurate model for detecting fake news. These techniques include:
 
 1. **Logistic Regression**
 2. **Decision Tree Classifier**
 3.  **Random Forest Classifier**
 
-To compare their effectiveness and identify the most accurate model for detecting fake news. The best-performing model can be deployed for real-time predictions on new data.
 
 ## Project Overview
 
